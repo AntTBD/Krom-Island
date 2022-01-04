@@ -38,7 +38,7 @@ Le criminel parviendra-t-il à tromper ses compagnons, sortir victorieux de cett
 * [@Marmorand31](https://github.com/Marmorand31)
 * [@Osogire](https://github.com/Osogire)
 
-<a href = "https://github.com/M4ti5/UQAC_Game/graphs/contributors">
+<a href = "../../graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=M4ti5/UQAC_Game"/>
 </a>
 
